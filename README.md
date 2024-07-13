@@ -4,6 +4,31 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-12-fools-cursor/assets/197597/06ade268-2889-4ef6-ba01-b0086db0b891">
 
+* In first place, @evgenyvinnik wins $75. The idea behind the challenge was to have something people could put in on their website April 1st and this is exactly what this submission's React component does! https://github.com/Algorithm-Arena/weekly-challenge-12-fools-cursor/issues/2
+
+
+
+https://github.com/user-attachments/assets/37fc08e2-2492-4150-8215-c2df6fbc1b21
+
+
+
+* In second place, @NicolasRoelandt wins $50. Not only the cursor points to the nearest button, but the buttons also moves closer! This concept is used for a brilliant quizz game. https://github.com/Algorithm-Arena/weekly-challenge-12-fools-cursor/issues/3
+
+
+https://github.com/user-attachments/assets/a91702b7-3897-4e65-bcf2-bc9b32871425
+
+
+* In third place, @nikpundik wins $25. This is a very conceptual game of light switches using the cursor to reveal hidden clues. I recommend trying it out at least once! https://github.com/Algorithm-Arena/weekly-challenge-12-fools-cursor/issues/4
+
+
+https://github.com/user-attachments/assets/170f69b7-313c-4a58-b65d-efa4277a3cf7
+
+
+* As honorable mention, I (@vjeux) submitted an entry where you have 10 cursors following each others and pointing towards the nearest button. I found that spring physics is highly under-used ;) https://github.com/Algorithm-Arena/weekly-challenge-12-fools-cursor/issues/1
+
+
+https://github.com/user-attachments/assets/7f84a9be-b555-4008-af99-8958cf9bbc52
+
 
 ### Prizes:
 * Winner: $75
