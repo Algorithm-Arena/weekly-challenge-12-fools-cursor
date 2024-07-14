@@ -3,6 +3,7 @@
 **For this challenge, you need to implement a program that rotates your cursor towards the interactive elements on the screen.** Today is April 1st, day of the pranks. For this challenge we're going to go back in the early days of the internet where websites would do all sorts of things based around cursors.
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-12-fools-cursor/assets/197597/06ade268-2889-4ef6-ba01-b0086db0b891">
+
 ### Winners
 
 * In first place, @evgenyvinnik wins $75. The idea behind the challenge was to have something people could put in on their website April 1st and this is exactly what this submission's React component does! https://github.com/Algorithm-Arena/weekly-challenge-12-fools-cursor/issues/2
